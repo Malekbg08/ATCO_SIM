@@ -30,3 +30,11 @@ This prototype has already been shown to ground controllers who see great promis
 
 
 (You will find more helpful comments in almost every python file)
+
+## Important, please read carefully
+
+Please note that the airport config default file is `jsondatacdg.json' and the scenario default file is `scenarito.json`
+
+You can see how these files have been written to understand better the overall functioning 
+
+Please note that you will have to scroll down after importing `jsondatacdg.json`, this is due to graphical issues that causes the graph to be off-centered
