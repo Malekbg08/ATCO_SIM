@@ -1,0 +1,412 @@
+{
+      "0": {
+          "aircraft_id": "AI1",
+          "starting_node": "FromC",
+          "route": [
+              {
+                  "id": "TA3",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "R",
+                  "speed": "3"
+              },
+              {
+                  "id": "RT15",
+                  "speed": "5"
+              },
+              {
+                  "id": "T12",
+                  "speed": "5"
+              }
+          ],
+          "end_node": "TO_RWY"
+      },
+      "1": {
+          "aircraft_id": "AI2",
+          "starting_node": "R_RT1",
+          "route": [
+              {
+                  "id": "R",
+                  "speed": "7"
+              },
+              {
+                  "id": "R",
+                  "speed": "7"
+              },
+              {
+                  "id": "R",
+                  "speed": "1"
+              },
+              {
+                  "id": "R",
+                  "speed": "7"
+              },
+              {
+                  "id": "R",
+                  "speed": "1"
+              }
+          ],
+          "end_node": "R_TE2"
+      },
+      "2": {
+          "aircraft_id": "AI3",
+          "starting_node": "R_RT3",
+          "route": [
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "2"
+              },
+              {
+                  "id": "RT13",
+                  "speed": "4"
+              },
+              {
+                  "id": "T10",
+                  "speed": "5"
+              }
+          ],
+          "end_node": "TO_RWY"
+      },
+      "3": {
+          "aircraft_id": "ZA",
+          "starting_node": "FromC",
+          "route": [
+              {
+                  "id": "TA3",
+                  "speed": "2"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "RT13",
+                  "speed": "5"
+              },
+              {
+                  "id": "T10",
+                  "speed": "5"
+              }
+          ],
+          "end_node": "TO_RWY"
+      },
+      "4": {
+          "aircraft_id": "LV",
+          "starting_node": "R_RT3",
+          "route": [
+              {
+                  "id": "R",
+                  "speed": "1"
+              },
+              {
+                  "id": "R",
+                  "speed": "5"
+              },
+              {
+                  "id": "R",
+                  "speed": "5"
+              },
+              {
+                  "id": "R",
+                  "speed": "5"
+              },
+              {
+                  "id": "R",
+                  "speed": "7"
+              },
+              {
+                  "id": "R",
+                  "speed": "8"
+              },
+              {
+                  "id": "R",
+                  "speed": "10"
+              },
+              {
+                  "id": "RT14",
+                  "speed": "5"
+              },
+              {
+                  "id": "T11",
+                  "speed": "5"
+              }
+          ],
+          "end_node": "TO_RWY"
+    },
+
+
+    "5": {
+        "aircraft_id": "AF",
+        "starting_node": "FromA",
+        "route": [
+            {
+                "id": "FN5_A",
+                "speed": "5"
+            },
+            {
+                "id": "F",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "R",
+                "speed": "10"
+            },
+            {
+                "id": "RT14",
+                "speed": "6"
+            },
+            {
+                "id": "T11",
+                "speed": "5"
+            }
+        ],
+        "end_node": "TO_RWY"
+    },
+    "6": {
+        "aircraft_id": "TN",
+        "starting_node": "FromG",
+        "route": [
+            {
+                "id": "G1",
+                "speed": "4"
+            },
+            {
+                "id": "FN4",
+                "speed": "7"
+            },
+            {
+                "id": "N",
+                "speed": "7"
+            },
+            {
+                "id": "N",
+                "speed": "7"
+            },
+            {
+                "id": "FN2",
+                "speed": "5"
+            },
+            {
+                "id": "E",
+                "speed": "7"
+            },
+            {
+                "id": "TB2",
+                "speed": "9"
+            },
+            {
+                "id": "G3",
+                "speed": "6"
+            },
+            {
+                "id": "B_G3_B",
+                "speed": "5"
+            }
+        ],
+        "end_node": "FromB"
+    },
+    "7": {
+        "aircraft_id": "SA",
+        "starting_node": "LA_RWY",
+        "route": [
+            {
+                "id": "V1",
+                "speed": "5"
+            },
+            {
+                "id": "S2",
+                "speed": "4"
+            },
+            {
+                "id": "T2",
+                "speed": "4"
+            },
+            {
+                "id": "UT3",
+                "speed": "3"
+            },
+            {
+                "id": "C",
+                "speed": "5"
+            },
+            {
+                "id": "C",
+                "speed": "5"
+            },
+            {
+                "id": "C",
+                "speed": "5"
+            },
+            {
+                "id": "UC5",
+                "speed": "5"
+            },
+            {
+                "id": "UC5_M",
+                "speed": "3"
+            }
+        ],
+        "end_node": "FromM"
+    }
+}
